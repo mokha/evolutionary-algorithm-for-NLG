@@ -16,4 +16,4 @@ The code could be extended to use additional information of the input (such as d
 Methods that have employed evolutionary algorithms to generate creative language (in English and Finnish):
 - Khalid Alnajjar and Hannu Hannu Toivonen (2020). [Computational Generation of Slogans](https://doi.org/10.1017/S1351324920000236). Natural Language Engineering.
 - Mika Hämäläinen and Khalid Alnajjar (2019). [Let's FACE it. Finnish Poetry Generation with Aesthetics and Framing](https://www.aclweb.org/anthology/W19-8637/). In *the Proceedings of The 12th International Conference on Natural Language Generation*. pages 290-300.
-  - GitHub: [FinMeter](https://github.com/mikahama/FinMeter
+  - GitHub: [FinMeter](https://github.com/mikahama/FinMeter)
